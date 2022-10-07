@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasoonrajpoot
+- 👋 Hi, I’m Prasoon Rajpoot
 - 👀 I’m interested in Software Developement Internships.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
